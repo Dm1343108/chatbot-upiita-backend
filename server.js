@@ -353,7 +353,7 @@ const LAB_SYNONYMS = {
   ],
   'Laboratorio de Sistemas Digitales': [
     'Laboratorio de sistemas digitales','sd','SD','sistemas digitales','Sistemas Digitales', 'Sistemas digitales',
-    'laboratorio de Sistemas Digitales'
+    'laboratorio de Sistemas Digitales', 'Digitales', 'digitales', 'Digitales 1', 'digitales 1', 'Digitales1', 'digitales1'
   ],
   'Laboratorio de Telecomunicaciones': [
     'telecomunicaciones','lab de telecom','telecom','Laboratorio de telecomunicaciones', 'Telecom', 'Lab de Telecom', 'Laboratorio de Telecom',
